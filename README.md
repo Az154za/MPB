@@ -4,15 +4,15 @@ MPB is a modular diy power bank that is 100% scalable it does have batterie prot
 Keep in mind that this project is still work in progress it lacks some ideas 
 
 # BOM ( Bill of Material )
-USB-c receptacle
--2 Leds 
--10 1x02 pinHeaders
--2 Nmos transistors
--5 capacitors
+- USB C receptacle
+- two Leds 
+- ten 1x02 pinHeaders
+- two Nmos transistors
+- five capacitors
 - a tp4056
 - DW0A1
 -  one voltage regulator BD33FC0WFP
--  10 resistors
+-  ten resistors
 # PCB and schematic
 this is the schematic :
 
